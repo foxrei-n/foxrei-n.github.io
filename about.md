@@ -1,17 +1,9 @@
 ---
-layout: home
-author_profile: true
-title: "Home"
+layout: single
+title: "About"
+permalink: /about/
 ---
 
-Hi, I’m **Nabeela Khan**.
+I am a PhD student at Institute of Science Tokyo. My research lies at the intersection of sign language generation, computer vision, computer graphics, and robotics.
 
-I am a PhD student working on **sign language generation, multimodal generative AI, and robotics**.
-
-My research focuses on building systems that convert language into expressive, physically plausible sign motion, and on deploying those motions to avatars and robots.
-
-## Research interests
-- Sign language generation
-- Multimodal generative models
-- Motion representation learning
-- Human-robot interaction
+I am particularly interested in generating semantically accurate and physically plausible sign motion from text and speech, and in retargeting that motion to avatars and humanoid robots.
