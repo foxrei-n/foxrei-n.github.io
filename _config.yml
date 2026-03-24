@@ -1,0 +1,25 @@
+title: Nabeela Khan
+name: Nabeela Khan
+description: PhD Student, Institute of Science Tokyo.
+url: "https://yourusername.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
+author:
+  name   : "Nabeela Khan"
+  avatar : "/assets/images/profile.jpg"
+  bio    : "PhD student working on sign language generation, multimodal AI, and robotics."
+  location: "Tokyo, Japan"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "nabeela@ra.sc.e.titech.ac.jp"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/foxrei-n"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=SYpqAVsAAAAJ&hl=en"
