@@ -4,7 +4,7 @@ author_profile: true
 title: "Home"
 ---
 
-Hi, I’m **Nabeela Khan**.
+Hi, I’m **Nabeela**.
 
 I am currently a PhD student at [Science Tokyo](https://www.isct.ac.jp/en), supervised by [Prof. Kazuhiro Nakadai](https://scholar.google.com/citations?hl=en&user=SBBBYM8AAAAJ&view_op=list_works&sortby=pubdate). I previously completed my master’s degree at Science Tokyo in the same lab.
 
