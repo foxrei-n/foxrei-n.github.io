@@ -10,7 +10,7 @@ plugins:
 
 author:
   name   : "Nabeela Khan"
-  avatar : "/assets/images/profile.jpg"
+  avatar : "/assets/images/profile1.jpg"
   bio    : "PhD student working on sign language generation, multimodal AI, and robotics."
   location: "Tokyo, Japan"
   links:
