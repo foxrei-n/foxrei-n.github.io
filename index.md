@@ -1,7 +1,8 @@
 ---
-layout: home
+layout: single
 author_profile: true
 title: "Home"
+permalink: /
 ---
 
 Hi, I’m **Nabeela**.
