@@ -4,37 +4,108 @@
 
 @import "minimal-mistakes";
 
-/* Body text */
+/* ---------- Global typography ---------- */
 body {
   font-size: 16px;
   line-height: 1.7;
 }
 
-/* Main title */
-.page__title {
-  font-size: 2.2rem;
-}
-
-/* Main content */
 .page__content p,
 .page__content li {
-  font-size: 1.1rem;
+  font-size: 1.02rem;
+  line-height: 1.75;
 }
 
-/* Sidebar name */
-.author__name {
-  font-size: 1.5rem;
+.page__content h2 {
+  font-size: 1.8rem;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
 }
 
-/* Sidebar bio */
-.author__bio {
-  font-size: 1rem;
-  line-height: 1.6;
+.page__content h3 {
+  font-size: 1.3rem;
+  margin-top: 1.4rem;
+  margin-bottom: 0.6rem;
 }
 
-/* Bigger profile image */
+/* ---------- Main page title ---------- */
+.page__title {
+  font-size: 2.1rem;
+  margin-bottom: 0.9rem;
+}
+
+/* ---------- Sidebar / author profile ---------- */
 .author__avatar img {
   max-width: 180px;
   width: 180px;
   border-radius: 50%;
+}
+
+.author__name {
+  font-size: 1.45rem;
+  margin-top: 0.8rem;
+}
+
+.author__bio {
+  font-size: 0.98rem;
+  line-height: 1.6;
+}
+
+.author__urls li {
+  font-size: 0.96rem;
+  margin-bottom: 0.35rem;
+}
+
+/* ---------- Intro spacing ---------- */
+.page__content > p {
+  margin-bottom: 1.05rem;
+}
+
+/* ---------- Lists ---------- */
+.page__content ul li {
+  margin-bottom: 0.3rem;
+}
+
+/* ---------- Publications ---------- */
+.pub-entry {
+  margin-bottom: 2rem;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.pub-title {
+  font-size: 1.16rem;
+  font-weight: 700;
+  line-height: 1.5;
+  margin-bottom: 0.3rem;
+}
+
+.pub-authors {
+  font-size: 0.98rem;
+  margin-bottom: 0.2rem;
+}
+
+.pub-venue {
+  font-size: 0.98rem;
+  margin-bottom: 0.35rem;
+  color: #555;
+}
+
+.pub-links {
+  font-size: 0.96rem;
+  margin-bottom: 0.45rem;
+}
+
+.pub-links a {
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
+
+.pub-summary {
+  font-size: 0.97rem;
+  line-height: 1.65;
+  color: #333;
 }

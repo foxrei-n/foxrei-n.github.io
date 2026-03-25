@@ -18,7 +18,7 @@ permalink: /publications/
     <a href="#">Video</a>
   </div>
   <div class="pub-summary">
-    A flow-matching-based framework for one-to-many sign language generation from text, designed to better capture motion variability.
+    A flow-matching framework for one-to-many sign language generation from text, designed to better capture motion variability.
   </div>
 </div>
 
