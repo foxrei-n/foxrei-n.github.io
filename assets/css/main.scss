@@ -1,0 +1,40 @@
+---
+# Only the main Sass file needs front matter
+---
+
+@import "minimal-mistakes";
+
+/* Body text */
+body {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+/* Main title */
+.page__title {
+  font-size: 2.2rem;
+}
+
+/* Main content */
+.page__content p,
+.page__content li {
+  font-size: 1.1rem;
+}
+
+/* Sidebar name */
+.author__name {
+  font-size: 1.5rem;
+}
+
+/* Sidebar bio */
+.author__bio {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* Bigger profile image */
+.author__avatar img {
+  max-width: 180px;
+  width: 180px;
+  border-radius: 50%;
+}
