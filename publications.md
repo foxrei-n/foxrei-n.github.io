@@ -8,7 +8,7 @@ permalink: /publications/
 
 <div class="pub-entry">
   <div class="pub-title">A Review of Deep Learning-Based Approaches to Sign Language Processing</div>
-  <div class="pub-authors">Sihan Tan*, <strong>Nabeela Khan*</strong>, Z. An, Y. Ando, R. Kawakami, Kazuhiro Nakadai</div>
+  <div class="pub-authors">Sihan Tan*, <strong>Nabeela Khan*</strong>, Z. An*, Y. Ando, R. Kawakami, Kazuhiro Nakadai</div>
   <div class="pub-venue"><em>Advanced Robotics</em>, 38(23):1649–1667, 2024</div>
   <div class="pub-links">
     <a href="#">Paper</a>
@@ -44,7 +44,7 @@ permalink: /publications/
   <div class="pub-authors"><strong>Nabeela Khan*</strong>, Bowen Wu, Sihan Tan, Carlos Toshinori Ishi, Kazuhiro Nakadai</div>
   <div class="pub-venue"><em>Proceedings of the 27th ACM International Conference on Multimodal Interaction (ICMI)</em>, Oct. 2025</div>
   <div class="pub-links">
-    <a href="#">Paper</a> |
+    <a href="https://dl.acm.org/doi/full/10.1145/3716553.3750765">Paper</a> |
     <a href="#">Code</a> |
     <a href="#">Video</a>
   </div>
